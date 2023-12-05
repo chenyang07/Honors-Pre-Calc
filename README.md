@@ -5,7 +5,7 @@
 
 <p><strong>Past Tests and Quizzes’s from Mr. Lamkin’s Honors Pre Calc Class (allowed by Mr. Lamkin)</strong><br>
 <em>originally pulled from Arjit’s + Hiba’s Google Drives</em><br>
-To edit this repo, https://forms.gle/m3Y9YanFQ4SHLBjq6 </p>
+To edit this repo, create an account on Github</p>
 <p><strong>Rules</strong></p>
 <ol>
 <li>Post files in PDF form</li>
