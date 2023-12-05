@@ -1,5 +1,6 @@
 ---
 <h1 id="honors-pre-calc">Honors-Pre-Calc</h1>
+
 ---
 
 <p><strong>Past Tests and Quizzes’s from Mr. Lamkin’s Honors Pre Calc Class (allowed by Mr. Lamkin)</strong><br>
