@@ -1,5 +1,5 @@
 ---
-<h1 id="honors-pre-calc">Honors-Pre-Calc</h1>
+<h1 id="honors-pre-calc">Honors Pre Calc</h1>
 
 ---
 
